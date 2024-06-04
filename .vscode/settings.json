@@ -1,0 +1,9 @@
+{
+    "debug.showInlineBreakpointCandidates": true,
+    "editor.folding": false,
+    "editor.foldingHighlight": false,
+    "editor.suggest.showFolders": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
